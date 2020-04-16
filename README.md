@@ -31,7 +31,7 @@ From jdelaney
 | [Amino](https://amino.com/careers/) | San Francisco, CA |
 | [Amobee](https://www.amobee.com/company/careers/) | Foster City, CA |
 | [Ancestry](http://www.ancestry.com/corporate/careers/) | Lehi, UT; San Francisco, CA |
-| [ANDigital](https://and.digital/join-us/) | London, WC2N 4JF, UK |
+| [ANDigital](https://and.digital/join-us/) | London, UK |
 | [Angellist](https://angel.co/company/angellist/jobs) | San Francisco, CA; New York, NY |
 | [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, CA; Santa Barbara, CA |
 | [AppNexus](https://www.appnexus.com/en/company/careers) | New York, NY |
