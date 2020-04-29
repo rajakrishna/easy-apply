@@ -55,6 +55,7 @@ From jdelaney
 | [Bloomz](https://www.bloomz.net/jobs/) | Redmond, WA |
 | [Blue Origin](https://www.blueorigin.com/careers) | Kent, WA |
 | [Booking.com](https://workingatbooking.com/) | Amsterdam, Netherlands |
+| [Bosch](https://www.bosch.com/careers/) | Multiple Countries all over the world |
 | [Box](https://www.box.com/careers) | London, UK; New York, NY; Redwood City, CA; San Fransisco, CA |
 | [BuildASign](https://www.buildasign.com/careers) | Austin, TX  |
 | [BuildZoom](https://www.buildzoom.com/careers) | San Francisco, CA; Norman, OK  |
@@ -86,6 +87,7 @@ From jdelaney
 | [Clue](https://www.helloclue.com/jobs.html) | Berlin, Germany |
 | [Clustrix](http://www.clustrix.com/careers/) | San Francisco, CA; San Jose, CA; Seattle, WA |
 | [Codecademy](https://www.codecademy.com/about/jobs) | New York, NY |
+| [Coder](https://coder.com/company#openings) | Austin, TX |
 | [CodeSignal](https://careers.smartrecruiters.com/CodeSignal) | San Francisco, CA |
 | [Codeship](https://codeship.com/jobs) | Boston, MA; Remote |
 | [Coinbase](https://www.coinbase.com/careers) | San Francisco, CA |
@@ -130,6 +132,7 @@ From jdelaney
 | [Entelo](https://www.entelo.com/careers/) | San Francisco, CA |
 | [Epic](https://careers.epic.com/) | Madison, WI |
 | [Etsy](https://www.etsy.com/careers/) | New York, NY |
+| [Eurofins](https://careers.eurofins.com/in) | Bengaluru, India |
 | [Eventbrite](https://www.eventbrite.com/careers/) | San Francisco, CA |
 | [Evernote](https://evernote.com/careers/) | Redwood City, CA |
 | [Facebook](https://www.facebook.com/careers/) | Boston, MA; Los Angeles, CA; Menlo Park, CA; Redmond, WA; San Francisco, CA; Seattle, WA |
@@ -167,6 +170,7 @@ From jdelaney
 | [Helix](https://www.helix.com/careers) | San Carlos, CA; San Diego, CA |
 | [Helpling](https://www.helpling.de/careers) | Berlin, Germany |
 | [HomeAway](https://www.homeaway.com/careers/openings/) | Austin, TX; Chicago, IL; Denver, CO; Seattle, WA |
+| [Huawei Technologies Canada](https://www.huawei.com/ca/about-huawei/careers) | (Waterloo, Ottawa, Montreal, Burnaby) Canada |
 | [HubSpot](https://www.hubspot.com/jobs) | Cambridge, MA |
 | [Hulu](http://www.hulu.com/jobs) | Santa Monica, CA |
 | [iCIMS](https://careers.icims.com) | Matawan, NJ |
@@ -179,6 +183,7 @@ From jdelaney
 | [Indiegogo](https://www.indiegogo.com/careers) | New York, NY; San Francisco, CA |
 | [Infinera](https://infinera.wd1.myworkdayjobs.com/Infinera_Careers) | Sunnyvale, CA |
 | [InfluxDB](https://www.influxdata.com/careers/) | Denver, CO; New York, NY; San Francisco, CA |
+| [Infobip](https://www.infobip.com/careers) | Zagreb, Croatia; Sarajevo, Bosnia and Herzegovina |
 | [InMobi](http://www.inmobi.com/company/careers/) | San Francisco, CA |
 | [InstaCart](https://careers.instacart.com/) | San Francisco, CA |
 | [Instructure](https://www.instructure.com/careers/) | Chicago, IL; Hong Kong; London, UK; Pleasant Grove, UT; Salt Lake City, UT; São Paulo, Brazil; Seattle, WA; Sydney, Australia |
@@ -186,7 +191,7 @@ From jdelaney
 | [Interactive Intelligence](https://www.genesys.com/inin/careers) | Indianapolis, IN |
 | [Intercom](https://www.intercom.com/careers) | San Francisco, CA |
 | [Invoice2go](https://invoice.2go.com/careers/) | Redwood City, CA |
-| [IXL Learning](https://www.ixl.com/company/jobs) | Raleigh-Durham, NC; San Mateo, CA |
+| [IXL Learning](https://www.ixl.com/company/careers) | Raleigh-Durham, NC; San Mateo, CA; Toronto, Canada |
 | [Jet](https://jet.com/careers) | New York, NY |
 | [JetBrains](https://www.jetbrains.com/company/jobs/) | Cambridge, MA |
 | [Jiminny](https://www.jiminny.com/careers.html) | Sofia, Bulgaria |
@@ -259,7 +264,9 @@ From jdelaney
 | [Pandora](http://www.pandora.com/careers/all) | Oakland, CA |
 | [Paypal](https://www.paypal.com/webapps/mpp/jobs) | San Jose, CA |
 | [Paytm Labs](https://jobs.lever.co/paytm) | Bangalore, India; Noida, India; Toronto, ON, Canada |
+| [Pest Routes](https://www.pestroutes.com/careers) | McKinney, TX |
 | [Pinterest](https://careers.pinterest.com/) | San Francisco, CA |
+| [Pinto](https://pinto.co/careers) | New York, NY |
 | [Pivotal](https://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
 | [PlushCare](https://plushcare.com/careers/) | San Francisco, CA |
 | [Postmates](https://postmates.com/jobs) | San Francisco, CA |
@@ -306,6 +313,7 @@ From jdelaney
 | [Sensus](https://www.xylem.com/en-us/careers/) | Boise, ID; Morrisville, NC |
 | [Shazam](https://www.shazam.com/gb/careers?) | London, UK; San Francisco, CA |
 | [SheerID](https://www.sheerid.com/jobs-at-sheerid/) | Eugene, OR |
+| [Shiji Group](https://www.shijigroup.com/careers) | Katowice, Poland |
 | [Shopify](https://www.shopify.com/careers) | Ottawa, ON; Remote; Toronto, ON |
 | [ShoreTel](https://www.shoretel.com/careers) | Austin, TX; Rochester, NY; Sunnyvale, CA |
 | [Shutterfly](https://www.shutterflyinc.com/jobs/) | Greenville, SC; Redwood City, CA; Tempe, AZ |
@@ -316,6 +324,7 @@ From jdelaney
 | [Slack](https://slack.com/jobs) | San Francisco, CA |
 | [Slice](https://careers.slice.com/) | San Mateo, CA |
 | [Smarking](https://www.smarking.net/careers) | San Francisco, CA |
+| [Smart Recruiters](https://careers.smartrecruiters.com/smartrecruiters) | Kraków, Poland; Berlin, Germany |
 | [Smartsheet](https://www.smartsheet.com/careers) | Bellevue, WA |
 | [SmartThings](https://www.smartthings.com/careers) | London, UK; Minneapolis, MN; Mountain View, CA; Palo Alto, CA; Seattle, WA; Tucson, AZ |
 | [Smule](https://www.smule.com/jobs) | San Francisco, CA |
@@ -338,6 +347,7 @@ From jdelaney
 | [Sunlink](http://sunlink.com/careers-2/) | San Leandro, Mill Valley, CA |
 | [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) | Palo Alto, CA |
 | [Symphony](https://symphony.com/company/careers) | New York, NY; Palo Alto, CA |
+| [SynapOne](https://synapteinsolutions.com/career/) | Austin, TX; San Jose, CA; Santa Clara, CA |
 | [Tableau](https://careers.tableau.com/listing) | Palo Alto, CA; Seattle, WA |
 | [Taco Bell, Corporate](https://www.tacobell.com/careers) | Irvine, CA |
 | [Tango](https://www.tango.me/careers/) | New York, NY |
@@ -380,6 +390,7 @@ From jdelaney
 | [VHX](https://www.vhx.tv/jobs) | New York, NY |
 | [Viget](https://www.viget.com/careers) | Boulder, CO; Durham, NC |
 | [Vimeo](https://vimeo.com/jobs) | New York, NY |
+| [Visa](https://usa.visa.com/careers.html) | USA (Multiple Locations) |
 | [Vox Media](https://www.voxmedia.com/careers) | New York, NY; Remote; Washington, D.C. |
 | [Vultr](https://www.vultr.com/corporate/careers/) | Matawan, NJ |
 | [Wattpad](https://www.wattpad.com/life/?jobs) | Toronto, ON, Canada |
