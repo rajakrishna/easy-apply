@@ -355,6 +355,7 @@ From jdelaney
 | [Teespring](https://teespring.com/jobs) | San Francisco, CA |
 | [Telenav](https://careers.telenav.com/) | Sunnyvale, CA |
 | [TextNow](http://about.textnow.com/careers/#openings) | San Francisco, CA; Waterloo, ON; |
+| [TGS Management Company](https://www.tgsmc.com/careers/)| Irvine, CA; Princeton, NJ |
 | [The Artist Union](https://theartistunion.com/about) | San Francisco, CA |
 | [The Climate Corporation](https://climate.com/careers) | Chicago, IL; San Francisco, CA; Seattle, WA; St. Louis, MO |
 | [The Internet Archive](https://archive.org/about/jobs.php) | Remote; Richmond, CA; San Francisco, CA |
