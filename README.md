@@ -207,6 +207,7 @@ From jdelaney
 | [Kinnek](https://www.kinnek.com/jointeam/) | New York, NY |
 | [Klarna](https://www.klarna.com/careers) | Stockholm, Sweden |
 | [Laserfiche](http://jobs.laserfiche.com/) | Fort Lauderdale, FL; Guadalajara, Mexico; Hong Kong; Los Angeles, CA; London, UK; Washington, D.C.; Shanghai; Toronto, Canada |
+| [Leetcode](https://leetcode.com/jobs/) | Palo Alto, CA |
 | [LendUp](https://www.lendup.com/careers) | San Francisco, CA |
 | [Lever](https://jobs.lever.co/lever) | San Francisco, CA |
 | [Lifesize](https://www.lifesize.com/en/company/careers) | Austin, TX |
@@ -232,6 +233,7 @@ From jdelaney
 | [Meteor](https://www.meteor.com/careers) | San Francisco, CA |
 | [Metromile](https://boards.greenhouse.io/metromile#.Vo7qppMrIo8) | Boston, MA; San Francisco, CA |
 | [Mind Candy](http://mindcandy.com/careers) | London, UK |
+| [Mindstrong] (https://mindstrong.com/careers/) | Mountain View, CA; San Francisco, CA |
 | [MindTouch](https://mindtouch.com/about/careers) | San Diego, CA |
 | [MixBit](https://mixbit.com/jobs) | San Mateo, CA |
 | [Mixmax](https://mixmax.com/careers) | San Francisco, CA |
